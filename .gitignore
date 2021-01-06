@@ -1,0 +1,6 @@
+/.vs
+/.vscode
+/Oracle.API/bin
+/Oracle.API/obj
+/Oracle.DB/bin
+/Oracle.DB/obj

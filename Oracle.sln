@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oracle.DB", "Oracle.DB\Oracle.DB.csproj", "{A5680CCC-B8F7-47BF-825A-3B02CEB61ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oracle.API", "Oracle.API\Oracle.API.csproj", "{7C968FFA-CE73-41B7-8CBC-503EFF7073BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5680CCC-B8F7-47BF-825A-3B02CEB61ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5680CCC-B8F7-47BF-825A-3B02CEB61ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5680CCC-B8F7-47BF-825A-3B02CEB61ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5680CCC-B8F7-47BF-825A-3B02CEB61ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C968FFA-CE73-41B7-8CBC-503EFF7073BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C968FFA-CE73-41B7-8CBC-503EFF7073BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C968FFA-CE73-41B7-8CBC-503EFF7073BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C968FFA-CE73-41B7-8CBC-503EFF7073BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A3F843-F303-4BF9-A47C-1C07976B234D}
+	EndGlobalSection
+EndGlobal
